@@ -50,7 +50,7 @@ Click on the sample link to view the README, which contains instructions on how 
 
 ### Hello samples
 
-  - [**HelloWorld**](https://github.com/misticorion/samples-airflow/tree/main/dags/hello_world): Demonstrates a DAG Definition that executes a single Activity.
+  - [**HelloWorld**](https://github.com/misticorion/samples-airflow/blob/main/dags/hello_world.py): Demonstrates a DAG Definition that executes a single Activity.
 
 
 ## IDE Integration
