@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# airflow specific config files
+airflow-webserver.pid
+airflow.db
+standalone_admin_password.txt
+airflow.cfg
+webserver_config.py
+
