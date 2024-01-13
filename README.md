@@ -27,7 +27,7 @@ This repository contains sample Workflow applications that demonstrate various c
 
        virtualenv env
        export AIRFLOW_HOME={PATH_OF_PROJECT}
-       pip install apache-airflow==2.3.3
+       pip install -r requirements.txt
 
 3. Run airflow locally with:
 
